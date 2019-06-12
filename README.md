@@ -1,2 +1,6 @@
 # aulagit
-Aula de Github - versionamento de código.
+Aula de Github
+
+## Senac 2019
+
+Projeto de __Teste__
